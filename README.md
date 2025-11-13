@@ -10,7 +10,16 @@
 ### 💻 About Me
 - 🌱 I’m currently learning **AI, Machine Learning, and Full Stack Development**
 - 💬 Ask me about **Java, Python, MySQL, or Web Development**
-- 📫 Reach me at: [fauzanahmed.engr@gmail.com]
+- 📫 Reach me at: fauzanahmed.engr@gmail.com
+
+---
+
+### 📘 Currently Learning
+- ☕ **Java – 81-Lesson Deep Dive (Ongoing)**
+  - Rebuilding Java fundamentals
+  - Completed **16 / 81 lessons**
+  - Uploading all example programs & exercises to GitHub  
+  👉 *Link to repo:* **[Add your repo link here]**
 
 ---
 
@@ -30,5 +39,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,mysql,java,git,github,vscode" />
 </p>
-
----
