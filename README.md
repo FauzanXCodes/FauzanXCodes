@@ -19,7 +19,7 @@
   - Rebuilding Java fundamentals
   - Completed **16 / 81 lessons**
   - Uploading all example programs & exercises to GitHub  
-  👉 *Link to repo:* [https://github.com/FauzanXCodes/java-learning-journey]*
+  👉 Link to repo: https://github.com/FauzanXCodes/java-learning-journey
 
 ---
 
