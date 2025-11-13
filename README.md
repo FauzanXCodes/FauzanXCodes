@@ -16,8 +16,8 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/your-linkedin-id" target="blank">
-  <img align="center" src="https://www.linkedin.com/in/mohammedfauzanahmed/" height="40" />
+<a href="https://www.linkedin.com/in/mohammedfauzanahmed/" target="blank">
+  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 <a href="mailto:fauzanahmed.engr@gmail.com">
   <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
