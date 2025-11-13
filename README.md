@@ -9,18 +9,17 @@
 
 ### 💻 About Me
 - 🌱 I’m currently learning **AI, Machine Learning, and Full Stack Development**
-- 💬 Ask me about **PHP, Python, MySQL, or Web Development**
-- 📫 Reach me at: [your-email@example.com]
-- ⚡ Fun fact: I can debug faster than I decide what to eat 😅
+- 💬 Ask me about **Java, Python, MySQL, or Web Development**
+- 📫 Reach me at: [fauzanahmed.engr@gmail.com]
 
 ---
 
 ### 🔗 Connect with me:
 <p align="left">
 <a href="https://www.linkedin.com/in/your-linkedin-id" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <img align="center" src="https://www.linkedin.com/in/mohammedfauzanahmed/" height="40" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:fauzanahmed.engr@gmail.com">
   <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
@@ -29,28 +28,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,php,python,mysql,aws,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,python,mysql,java,git,github,vscode" />
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=onedark&row=1&no-bg=true&no-frame=true" />
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
-</p>
-
----
-
-### ☕ Support Me
-<p><a href="https://www.buymeacoffee.com/yourname"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a></p><br><br>
