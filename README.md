@@ -17,7 +17,7 @@
 ### 📘 Currently Learning
 - ☕ **Java – 81-Lesson Deep Dive (Ongoing)**
   - Rebuilding Java fundamentals
-  - Completed **16 / 81 lessons**
+  - Completed **17 / 81 lessons**
   - Uploading all example programs & exercises to GitHub  
   👉 Link to repo: https://github.com/FauzanXCodes/java-learning-journey
 
