@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Fauzan Ahmed</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Data & Backend Enthusiast</h3>
+<h3 align="center">🚀 Software Engineer | Data & Backend Enthusiast</h3>
 
 <p align="center">
   I enjoy building real-world projects, working with data, and continuously improving my technical skills.
