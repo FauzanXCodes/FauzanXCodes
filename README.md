@@ -50,7 +50,7 @@ A **business-oriented SQL analytics project** that analyzes employee data to ans
 ---
 
 ## 🔗 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mohammedfauzanahmed/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
