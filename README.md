@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="Developer GIF" width="600" />
+</p>
+
+<p align="center">
   <a href="https://fauzanahmed.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
