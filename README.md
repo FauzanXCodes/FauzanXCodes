@@ -5,9 +5,7 @@
   <i>Building scalable data-driven systems & intelligent web experiences.</i>
 </p>
 
-<p align="center">
   <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding Animation" width="220" style="border-radius:50%;" />
-</p>
 
 <p align="center">
   <a href="https://fauzanahmed.me/" target="_blank">
