@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Work%20Culture%20(HD%20Visuals)/Girl%20doing%20WebDev.gif" alt="Developer GIF" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="Developer Banner" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding Animation" width="600" />
 </p>
 
 <p align="center">
@@ -105,7 +106,7 @@ A responsive, vintage-inspired portfolio website with smooth animations, dark/li
 - **Tech:** HTML5, CSS3, JavaScript, EmailJS
 - **Features:** Split-screen design, typing animation, skill progress indicators
 
-🔗 [Live Demo](https://fauzanahmed.me/) | 🔗 [View Repository]([https://github.com/FauzanXCodes](https://github.com/FauzanXCodes/modern-portfolio-template))
+🔗 [Live Demo](https://fauzanahmed.me/) | 🔗 [View Repository](https://github.com/FauzanXCodes/modern-portfolio-template)
 
 ---
 ---
