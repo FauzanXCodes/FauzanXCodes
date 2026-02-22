@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Software Engineer | Data-Centric Systems Developer | MERN Stack</h3>
 
 <p align="center">
-  <i>Building data-driven platforms, scalable web architectures, and intelligent interactive systems.</i>
+  <i>Building scalable data-driven systems & intelligent web experiences.</i>
 </p>
 
 <p align="center">
