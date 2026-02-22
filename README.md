@@ -1,152 +1,116 @@
-<h1 align="center">Hi 👋, I'm Mohammed Fauzan Ahmed</h1>
-<h3 align="center">🚀 Software Engineer | Data-Centric Systems Developer | MERN Stack</h3>
+<!-- Right Side Coding GIF -->
+<img align="right" alt="Coding" width="280" 
+src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
 
-<p align="center">
-  <i>Building data-driven platforms, scalable web architectures, and intelligent interactive systems.</i>
+<h1>Hi 👋, I'm Mohammed Fauzan Ahmed</h1>
+<h3>🚀 Software Engineer | Data-Centric Systems Developer | MERN Stack</h3>
+
+<p>
+Building scalable data-driven systems, high-performance web architectures, 
+and intelligent AI-powered applications.
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="Developer Banner" width="600" />
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding Animation" width="600" />
+<br/>
+
+### 🌐 Connect With Me
+
+<p>
+<a href="https://fauzanahmed.me/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mohammedfauzanahmed/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:fauzanahmed.engr@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
-<p align="center">
-  <a href="https://fauzanahmed.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammedfauzanahmed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:fauzanahmed.engr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<br clear="right"/>
 
 ---
 
 ## 🎯 What I Do
 
-I'm a **Full-Stack Developer and Data Scientist** focused on building scalable web applications and intelligent, data-driven systems. I combine strong engineering fundamentals with practical AI and analytics expertise to create solutions that are both efficient and impactful.
+I build **production-ready full-stack applications** and design **data-centric systems** that combine backend scalability with intelligent analytics.
 
-### 💼 Core Expertise
-- **Full-Stack Development** — MERN Stack (MongoDB, Express.js, React.js, Node.js)
-- **Data Analysis & Visualization** — SQL, Python, Power BI, Tableau, Excel
-- **Machine Learning & AI** — Scikit-learn, NLP, Generative AI
-- **Backend Systems** — REST APIs, Database Design, Performance Optimization
+- ⚡ Architect scalable MERN applications  
+- 📊 Transform raw data into actionable insights  
+- 🤖 Build AI-enhanced solutions  
+- 🧠 Optimize performance at system level  
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Core Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nestjs,python,java,php,mysql,postgresql,mongodb,redis,docker,git,github,vscode,figma" />
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,mysql,python,redis,docker,git,github,typescript" />
 </p>
-
-### 📊 Data & Analytics
-| Category | Tools & Technologies |
-|----------|---------------------|
-| **Languages** | Python, SQL |
-| **Analysis** | Pandas, NumPy, Matplotlib, Seaborn |
-| **Visualization** | Power BI, Tableau, Excel |
-| **Machine Learning** | Scikit-learn, NLP, Generative AI |
-
-### 🌐 Web Development
-| Category | Tools & Technologies |
-|----------|---------------------|
-| **Frontend** | React.js, HTML5, CSS3, JavaScript, TypeScript |
-| **Backend** | Node.js, Express.js, REST APIs |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
-| **Tools** | Git, GitHub, VS Code, Docker |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ ZK-Sniper — Zero-Knowledge Anti-Cheat System
-**The First FPS with Built-in ZK Anti-Cheat**
+### 🛡️ ZK-Sniper — Zero-Knowledge Anti-Cheat System  
+Privacy-preserving FPS aim verification using Starknet & ZK proofs.
 
-A revolutionary "Proof of Shot" aim trainer where every hit is verified by a Zero-Knowledge proof on Starknet, ensuring fair play without invasive scanning.
-
-- **Tech:** Unity/Godot, Dojo Engine, Cairo, Starknet, Zero-Knowledge Proofs
-- **Concept:** Privacy-preserving cheat detection using blockchain verification
-
-🔗 [View Repository](https://github.com/FauzanXCodes/zk-anti-cheat)
+**Tech:** Cairo, Starknet, Blockchain, Game Engine  
+🔗 https://github.com/FauzanXCodes/zk-anti-cheat
 
 ---
 
-### 📊 Employee Insights & Payroll Analytics
-**Business-Oriented SQL Analytics Project**
+### 📊 Employee Insights & Payroll Analytics  
+Advanced SQL-based workforce analytics with business intelligence modeling.
 
-Comprehensive SQL analytics project analyzing employee data to answer real-world HR and payroll questions with actionable business insights.
-
-- **Tech:** SQL (PostgreSQL/MySQL), Data Analysis
-- **Focus:** HR analytics, payroll modeling, workforce insights
-
-🔗 [View Repository](https://github.com/FauzanXCodes/employee-insights-sql)
+**Tech:** PostgreSQL, Data Modeling, HR Analytics  
+🔗 https://github.com/FauzanXCodes/employee-insights-sql
 
 ---
 
-### 📈 Applied NumPy — Numerical Computing
-**Hands-on Numerical Analysis & Performance Optimization**
+### 📈 Applied NumPy — Numerical Computing  
+Vectorized computation & performance-focused numerical analysis.
 
-Practical application of NumPy for real-world data analysis, numerical modeling, and performance optimization with vectorized computations.
-
-- **Tech:** Python, NumPy, Performance Benchmarking
-- **Focus:** Vectorized operations, statistical analysis, financial modeling
-
-🔗 [View Repository](https://github.com/FauzanXCodes/Applied-numpy)
+**Tech:** Python, NumPy, Benchmarking  
+🔗 https://github.com/FauzanXCodes/Applied-numpy
 
 ---
 
-### 🎨 Portfolio Website
-**Minimal Vintage-Themed Personal Website**
+### 🎨 Modern Portfolio Template  
+Responsive vintage-themed developer portfolio template.
 
-A responsive, vintage-inspired portfolio website with smooth animations, dark/light theme toggle, and interactive project showcases.
-
-- **Tech:** HTML5, CSS3, JavaScript, EmailJS
-- **Features:** Split-screen design, typing animation, skill progress indicators
-
-🔗 [Live Demo](https://fauzanahmed.me/) | 🔗 [View Repository](https://github.com/FauzanXCodes/modern-portfolio-template)
+🔗 Live: https://fauzanahmed.me/  
+🔗 Repo: https://github.com/FauzanXCodes/modern-portfolio-template
 
 ---
+
+## 📊 GitHub Stats
+
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FauzanXCodes&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=FauzanXCodes&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
 ## 🎓 Education
-
-**Computer Science & Engineering**  
+**B.E. Computer Science & Engineering**  
 Osmania University
 
 ---
 
-## 💡 What I'm Passionate About
+## 💡 Currently Focused On
 
-- 🔭 Building **scalable backend systems** and **data-driven applications**
-- 🌱 Learning **advanced ML/AI concepts** and **distributed systems**
-- 👯 Contributing to **open-source projects** and **developer communities**
-- 💬 Discussing **system design**, **data architecture**, and **web performance**
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammedfauzanahmed/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
-  </a>
-  <a href="mailto:fauzanahmed.engr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
-  </a>
-  <a href="https://fauzanahmed.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1a73e8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" height="40" />
-  </a>
-</p>
+- Advanced System Design  
+- AI + Generative Applications  
+- High-performance Backend Engineering  
+- Startup-oriented product building  
 
 ---
 
 <p align="center">
-  <i>🚀 Learning by building. Improving every day.</i>
+<i>🚀 Building. Learning. Scaling.</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FauzanXCodes&label=Profile%20Views&color=4d90fe&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=FauzanXCodes&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
