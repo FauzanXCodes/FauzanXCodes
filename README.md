@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="Developer Banner" width="500" style="border-radius: 50%; border: 3px solid #4d90fe;" />
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding Animation" width="500" style="border-radius: 50%; border: 3px solid #4d90fe;" />
+  <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="Developer Banner" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding Animation" width="600" />
 </p>
 
 <p align="center">
@@ -109,7 +109,6 @@ A responsive, vintage-inspired portfolio website with smooth animations, dark/li
 🔗 [Live Demo](https://fauzanahmed.me/) | 🔗 [View Repository](https://github.com/FauzanXCodes/modern-portfolio-template)
 
 ---
-
 ---
 
 ## 🎓 Education
