@@ -101,17 +101,9 @@ A responsive, vintage-inspired portfolio website with smooth animations, dark/li
 - **Tech:** HTML5, CSS3, JavaScript, EmailJS
 - **Features:** Split-screen design, typing animation, skill progress indicators
 
-🔗 [Live Demo](https://fauzanahmed.me/) | 🔗 [View Repository](https://github.com/FauzanXCodes)
+🔗 [Live Demo](https://fauzanahmed.me/) | 🔗 [View Repository](https://github.com/FauzanXCodes/modern-portfolio-template)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FauzanXCodes&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=4d90fe&text_color=a0a0a0&icon_color=4d90fe" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FauzanXCodes&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=4d90fe&text_color=a0a0a0" alt="Top Languages" height="160" />
-</p>
-
 ---
 
 ## 🎓 Education
