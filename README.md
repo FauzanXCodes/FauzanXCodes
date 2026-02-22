@@ -1,3 +1,4 @@
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding Animation" width="200" />
 <h1 align="center">Hi 👋, I'm Mohammed Fauzan Ahmed</h1>
 <h3 align="center">🚀 Software Engineer | Data-Centric Systems Developer | MERN Stack</h3>
 
@@ -5,7 +6,6 @@
   <i>Building scalable data-driven systems & intelligent web experiences.</i>
 </p>
 
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding Animation" width="220" style="border-radius:50%;" />
 
 <p align="center">
   <a href="https://fauzanahmed.me/" target="_blank">
