@@ -110,7 +110,3 @@ Osmania University
 <p align="center">
 <i>🚀 Building. Learning. Scaling.</i>
 </p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=FauzanXCodes&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
