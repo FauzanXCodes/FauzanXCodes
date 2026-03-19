@@ -1,18 +1,16 @@
-<!-- Right Side Coding GIF -->
+<h1 align="center">Hi 👋, I'm Mohammed Fauzan Ahmed</h1>
+<h3 align="center">🚀 Software Engineer | Data-Centric Systems Developer | MERN Stack</h3>
 
-<h1>Hi 👋, I'm Mohammed Fauzan Ahmed</h1>
-<h3>🚀 Software Engineer | Data-Centric Systems Developer | MERN Stack</h3>
-
-<p>
+<p align="center">
 Building scalable data-driven systems, high-performance web architectures, 
 and intelligent AI-powered applications.
 </p>
 
-<br/>
+---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p>
+<p align="center">
 <a href="https://fauzanahmed.me/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit_Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
@@ -23,8 +21,6 @@ and intelligent AI-powered applications.
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-
-<br clear="right"/>
 
 ---
 
@@ -39,9 +35,9 @@ I build **production-ready full-stack applications** and design **data-centric s
 
 ---
 
-## 🛠️ Core Tech Stack
+## 🛠️ Tech Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgresql,mysql,python,redis,docker,git,github,typescript" />
 </p>
 
@@ -50,40 +46,40 @@ I build **production-ready full-stack applications** and design **data-centric s
 ## 🚀 Featured Projects
 
 ### 🛡️ ZK-Sniper — Zero-Knowledge Anti-Cheat System  
-Privacy-preserving FPS aim verification using Starknet & ZK proofs.
+Privacy-preserving FPS aim verification using Starknet & ZK proofs.  
 
 **Tech:** Cairo, Starknet, Blockchain, Game Engine  
-🔗 https://github.com/FauzanXCodes/zk-anti-cheat
+🔗 https://github.com/FauzanXCodes/zk-anti-cheat  
 
 ---
 
 ### 📊 Employee Insights & Payroll Analytics  
-Advanced SQL-based workforce analytics with business intelligence modeling.
+Advanced SQL-based workforce analytics with business intelligence modeling.  
 
 **Tech:** PostgreSQL, Data Modeling, HR Analytics  
-🔗 https://github.com/FauzanXCodes/employee-insights-sql
+🔗 https://github.com/FauzanXCodes/employee-insights-sql  
 
 ---
 
 ### 📈 Applied NumPy — Numerical Computing  
-Vectorized computation & performance-focused numerical analysis.
+Vectorized computation & performance-focused numerical analysis.  
 
 **Tech:** Python, NumPy, Benchmarking  
-🔗 https://github.com/FauzanXCodes/Applied-numpy
+🔗 https://github.com/FauzanXCodes/Applied-numpy  
 
 ---
 
 ### 🎨 Modern Portfolio Template  
-Responsive vintage-themed developer portfolio template.
+Responsive vintage-themed developer portfolio template.  
 
 🔗 Live: https://fauzanahmed.me/  
-🔗 Repo: https://github.com/FauzanXCodes/modern-portfolio-template
+🔗 Repo: https://github.com/FauzanXCodes/modern-portfolio-template  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=FauzanXCodes&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=FauzanXCodes&theme=tokyonight&hide_border=true" />
 </p>
@@ -91,12 +87,13 @@ Responsive vintage-themed developer portfolio template.
 ---
 
 ## 🎓 Education
+
 **B.E. Computer Science & Engineering**  
-Osmania University
+Osmania University  
 
 ---
 
-## 💡 Currently Focused On
+## 💡 Current Focus
 
 - Advanced System Design  
 - AI + Generative Applications  
